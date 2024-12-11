@@ -24,4 +24,10 @@ Key features include:
 
 ## Setup Instructions
 
-```bash  
+```bash
+git clone https://github.com/Gayathmi-Mohottige/Ticket-Manager-Backend.git
+```
+
+## Usage
+The Ticket Manager Backend is designed to simulate and manage a dynamic ticketing system using multithreaded concurrency. The system involves two key entities — vendors and customers — interacting with a shared ticket pool. The backend is ideal for educational and practical purposes, showcasing how concurrency and synchronization can be manually implemented without relying on Spring Boot's built-in concurrency annotations.
+
